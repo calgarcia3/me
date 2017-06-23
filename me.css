@@ -1,0 +1,24 @@
+.Menu	{
+	background-color: #42c2f4;
+	height: 20px;
+	width: 60%;
+}
+ul	{
+	padding: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+li 	{
+	float: left;
+
+} 
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	
+}
