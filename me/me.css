@@ -2,11 +2,6 @@ ul	{
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
-<<<<<<< HEAD
-	overflow: hidden;
-	background-color: #333;
-=======
->>>>>>> 4b8c565fb496ab2c3d44cfd653034b5f45bf1631
 }
 
 .topnav	{
@@ -16,26 +11,11 @@ ul	{
 	
 .topnav a {
 	float: left;
-<<<<<<< HEAD
-} 
-
-li a {
-=======
->>>>>>> 4b8c565fb496ab2c3d44cfd653034b5f45bf1631
 	display: block;
 	color: #f2f2f2;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-<<<<<<< HEAD
-	
-}
-li a:hover {
-	background-color: #111;
-}
-h1	{
-	font-size: 16px;
-=======
 	font-size: 17px;
 }
 
@@ -46,5 +26,4 @@ h1	{
 
 .topnav .icon	{
 	display: none;
->>>>>>> 4b8c565fb496ab2c3d44cfd653034b5f45bf1631
 }
