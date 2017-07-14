@@ -1,19 +1,15 @@
-.Menu	{
-	background-color: #42c2f4;
-	height: 20px;
-	width: 60%;
-}
 ul	{
+	list-style-type: none;
 	padding: 0;
-	position: fixed;
-	top: 0;
-	width: 100%;
+	margin: 0;
+	overflow: hidden;
+	background-color: #333;
 }
 
 li 	{
 	float: left;
-
 } 
+
 li a {
 	display: block;
 	color: white;
@@ -21,4 +17,10 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none;
 	
+}
+li a:hover {
+	background-color: #111;
+}
+h1	{
+	font-size: 16px;
 }
