@@ -1,5 +1,6 @@
 title	{
 	background-color: #2c61b7;
+	font-family: 'Lemonada', cursive;
 }
 
 li	{
@@ -26,4 +27,24 @@ li	{
 .topnav li.active	{
 	background-color: #4CAF50;
 	color: white;
+}
+
+body {
+	font-size: 62.5%;
+	margin: 0;
+	padding: 0;
+	background-image: url("");
+	background-attachment: fixed;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.wrapper {
+	font-size: 1.6em;
+	padding: 2em;
+	margin: 0 auto;
+	width: 900px;
+	height: 2000px;
+	background-color: white;
 }
